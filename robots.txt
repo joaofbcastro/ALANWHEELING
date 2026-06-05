@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alanwheeling.github.io/ALANWHEELING/sitemap.xml
+Sitemap: https://alanwheeling.github.io/sitemap.xml
